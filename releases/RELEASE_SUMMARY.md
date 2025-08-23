@@ -21,6 +21,6 @@
 3. **Team Distribution**: Share the unpacked folder or .crx file
 
 ## Build Information
-- Build Date: Sat Aug 23 21:33:15 AEST 2025
+- Build Date: Sat Aug 23 21:55:05 AEST 2025
 - Version: 1.2.0
 - Manifest Version: 3

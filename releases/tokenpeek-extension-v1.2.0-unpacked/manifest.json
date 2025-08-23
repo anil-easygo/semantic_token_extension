@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "TokenPeek - Semantic Typography Inspector",
   "version": "1.2.0",
-  "description": "Inspect semantic design tokens and typography on any webpage. Click any text to reveal applied semantic typography tokens (e.g., --ds-display-md). Features: one-click copy, keyboard navigation, real-time statistics, and support for multiple design systems.",
+  "description": "Inspect semantic design tokens and typography on any webpage. Click any text to reveal applied tokens.",
   "action": {
     "default_popup": "popup.html",
     "default_title": "TokenPeek - Inspect Design Tokens"
