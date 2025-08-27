@@ -8,6 +8,7 @@
     "default_title": "TokenPeek - Inspect Design Tokens"
   },
   "permissions": ["activeTab", "scripting"],
+  "homepage_url": "https://majestic-sherbet-f68b7c.netlify.app/",
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
