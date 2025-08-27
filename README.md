@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📄 Privacy Policy
 
-- 🔒 **Privacy Policy**: [View Privacy Policy](link-to-be-added)
+- 🔒 **Privacy Policy**: [View Privacy Policy](https://majestic-sherbet-f68b7c.netlify.app/)
 - 🛡️ **Data Collection**: This extension collects NO personal data
 - 🏠 **Local Processing**: All data processing happens locally on your device
 
