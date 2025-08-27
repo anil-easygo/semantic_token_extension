@@ -113,6 +113,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the need for better token inspection tools
 - Special thanks to the Chrome Extensions API team
 
+## 📄 Privacy Policy
+
+- 🔒 **Privacy Policy**: [View Privacy Policy](link-to-be-added)
+- 🛡️ **Data Collection**: This extension collects NO personal data
+- 🏠 **Local Processing**: All data processing happens locally on your device
+
 ## 📞 Support
 
 - 🐛 **Bug Reports**: [GitHub Issues](link-to-be-added)
